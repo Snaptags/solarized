@@ -349,7 +349,7 @@ The Values
 L\*a\*b values are canonical (White D65, Reference D50), other values are
 matched in sRGB space.
 
-| SOLARIZED | HEX     | 16/8 | TERMCOL   | XTERM/HEX   | L*A*B      | RGB         | HSB          | SAMPLE                                                                |
+| SLZD | HEX     | 16/8 | TERMCOL   | XTERM/HEX   | L*A*B      | RGB         | HSB          | SAMPLE                                                                |
 | --------- | ------- | ---- | -------   | ----------- | ---------- | ----------- | -----------  | ----------                                                            |
 | base03    | #002b36 | 8/4  | brblack   | 234&#160;#1c1c1c | 15&#160;-12&#160;-12 | 0  43  54   | 193&#160;100&#160;21 | ![](https://github.com/Snaptags/solarized/raw/master/img/base03.png)  |
 | base02    | #073642 | 0/4  | black     | 235&#160;#262626 | 20 -12 -12 | 7  54  66   | 192  90  26  | ![](https://github.com/Snaptags/solarized/raw/master/img/base02.png)  |
